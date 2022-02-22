@@ -1,0 +1,27 @@
+#home{
+background: #ffc107;
+color: white;
+}
+
+.caixa{
+    padding: 60px  0;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+
+footer {
+    clear: both;
+    padding-top: 5px;
+    
+}
+
+footer #link-bottom a{
+    color: black;
+    padding: 20px;
+    }
+
+#link-bottom a:hover{
+color: blue;
+text-decoration: underline;
+}
+
